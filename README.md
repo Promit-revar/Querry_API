@@ -42,3 +42,5 @@ You can fork this repo and send me a Pull Request.
 This project is licensed under the ISC License.
 ## Deployed Version
 [Querry API](https://querryapi-prod.herokuapp.com/)
+## Documentation
+[Documentation](https://documenter.getpostman.com/view/15376942/UVXqDsEW)
